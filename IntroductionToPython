@@ -1,0 +1,13 @@
+What is Python?
+Python is a high-level, interpreted programming language that 
+emphasizes code readability and simplicity. It's known for it's 
+versatility and wide range of applications,from web devlopment to DataScience.
+
+Interpreted language:Python code is executed line by line making
+it easier to debug and test.
+Object Oriented: Python supports object-oriented-programming, which
+allows developers to structure code using classes and objects.
+Dynamically Typed: Variables in python are not bound to a specific 
+data type. You can assign different types of values to the same variable
+during runtime.
+Readble Syntax
